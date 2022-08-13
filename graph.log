@@ -1,0 +1,37 @@
+*   09f8deb Merge branch 'main' of github.com:fededigital/nuevorepo into main
+|\  
+| *   89aa98f Merge branch 'main' of github.com:fededigital/nuevorepo into main
+| |\  
+* | \   51ad3b1 Merge branch 'main' of github.com:fededigital/nuevorepo into main
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| *   9935915 Resolviendo conflicto en estaciones del anio  y fechas de inicio
+| |\  
+* | \   14da008 Se agregaron dos parrafos
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * b3ae468 Agregando estaicones del anio con fecha de inicio
+* | 6ae901a Agregando estaicones del anio con fecha de inicio
+|/  
+*   a514898 Merge branch 'html' into main
+|\  
+| * 83237f8 Agregando style.css al index.html
+* | 0747cfd Agregando el index.js al index.html
+* |   74f2368 Merge branch 'js' into main
+|\ \  
+| * | 324ca28 Creando index.js
+* | | 3607a72 agregando style.css
+| |/  
+|/|   
+* | 76a029f creando index.html
+|/  
+*   f6aac3d Merge branch 'main' of github.com:fededigital/nuevorepo into main
+|\  
+| * 8778cea Creando la licencia de uso
+* | a8f2cfc ignorando archivos .exe
+|/  
+* 435ef3c Primer commit

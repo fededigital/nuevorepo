@@ -1,0 +1,101 @@
+commit 89aa98fbc9e59822fc856f918799f501162b58ca
+Merge: 14da008 9935915
+Author: fedepop <fedemc99@yahoo.com>
+Date:   Fri Aug 12 19:31:44 2022 -0600
+
+    Merge branch 'main' of github.com:fededigital/nuevorepo into main
+
+commit 14da008145ea380b23b0c5324fa8efabe63d9146
+Merge: 6ae901a b3ae468
+Author: fedepop <fedemc99@yahoo.com>
+Date:   Fri Aug 12 19:26:24 2022 -0600
+
+    Se agregaron dos parrafos
+
+commit 99359150023c34c2c18d4d0b653493e533d2566c
+Merge: 6ae901a b3ae468
+Author: fedepop <fedemc99@yahoo.com>
+Date:   Fri Aug 12 19:26:24 2022 -0600
+
+    Resolviendo conflicto en estaciones del anio  y fechas de inicio
+
+commit 6ae901acc3cfac056c34612b87ea247f350097f1
+Author: fedepop <fedemc99@yahoo.com>
+Date:   Fri Aug 12 17:35:37 2022 -0600
+
+    Agregando estaicones del anio con fecha de inicio
+
+commit b3ae46873ae79ba9cfb808dc8167520d406cfe7b
+Author: fedepop <fedemc99@yahoo.com>
+Date:   Fri Aug 12 17:35:37 2022 -0600
+
+    Agregando estaicones del anio con fecha de inicio
+
+commit a5148987c59c66fe1cf2c3e7ad86448d50dfba38
+Merge: 0747cfd 83237f8
+Author: fedepop <fedemc99@yahoo.com>
+Date:   Fri Aug 12 15:49:58 2022 -0600
+
+    Merge branch 'html' into main
+
+commit 0747cfd2dc473a4810e7d7adfeca27a9aa0758cf
+Author: fedepop <fedemc99@yahoo.com>
+Date:   Fri Aug 12 15:49:18 2022 -0600
+
+    Agregando el index.js al index.html
+
+commit 83237f8d277177013ea2bd14311efcd1d01d5600
+Author: fedepop <fedemc99@yahoo.com>
+Date:   Fri Aug 12 15:44:49 2022 -0600
+
+    Agregando style.css al index.html
+
+commit 74f23685c588a3e633f25a8a2f025a7cafebff22
+Merge: 3607a72 324ca28
+Author: fedepop <fedemc99@yahoo.com>
+Date:   Fri Aug 12 15:29:01 2022 -0600
+
+    Merge branch 'js' into main
+
+commit 324ca28ec0c87a974e3da2e938eb9361fcc6192f
+Author: fedepop <fedemc99@yahoo.com>
+Date:   Fri Aug 12 15:23:52 2022 -0600
+
+    Creando index.js
+
+commit 3607a72545b5e48f528cf5ad4f4ecaa04cae871b
+Author: fedepop <fedemc99@yahoo.com>
+Date:   Fri Aug 12 15:18:45 2022 -0600
+
+    agregando style.css
+
+commit 76a029fc0dc598989cd3520dd246ec9e7afc55a6
+Author: fedepop <fedemc99@yahoo.com>
+Date:   Fri Aug 12 15:14:24 2022 -0600
+
+    creando index.html
+
+commit f6aac3d81b4317f5e32fb16e7849d119e3373421
+Merge: a8f2cfc 8778cea
+Author: fedepop <fedemc99@yahoo.com>
+Date:   Fri Aug 12 13:51:10 2022 -0600
+
+    Merge branch 'main' of github.com:fededigital/nuevorepo into main
+
+commit a8f2cfc46e870f7d67465ebb56463510346b4654
+Author: fedepop <fedemc99@yahoo.com>
+Date:   Fri Aug 12 13:50:40 2022 -0600
+
+    ignorando archivos .exe
+
+commit 8778cea19101ce7d9da9b89c238eac280723df79
+Author: fededigital <88310449+fededigital@users.noreply.github.com>
+Date:   Fri Aug 12 13:49:02 2022 -0600
+
+    Creando la licencia de uso
+
+commit 435ef3cea8ab5df72b9f8c952dc484060e75538f
+Author: fedepop <fedemc99@yahoo.com>
+Date:   Fri Aug 12 13:45:07 2022 -0600
+
+    Primer commit
